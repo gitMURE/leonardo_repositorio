@@ -1,1 +1,2 @@
-- Chacon, S. and Straub, B Pro Git. Apress.
+-Chacon, S. and Straub, B. Pro Git. Apress.
+-[A [B[A[DG[C[B[A[c[B[C[Loeliger, J. and McCullough, M. Version control with Git. O´Reilly.
